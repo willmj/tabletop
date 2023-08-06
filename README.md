@@ -6,7 +6,7 @@ Tables to be scraped from 5e.tools.
 `!roll 10-gp-gemstones`
 `!roll --random backstories`
 
-## Project Steps for completion
+## Project steps for completion
 1. Get dice roll command working (pick random value from list)
 2. Create csv files that contains tables scraped from 5e.tools
 3. Create search functionality to easily find tables using `!roll` command
